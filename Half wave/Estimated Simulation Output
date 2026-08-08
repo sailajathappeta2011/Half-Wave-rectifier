@@ -1,0 +1,13 @@
+Time=0   | AC Input=   0 | Rectified Output=   0
+Time=10  | AC Input=  25 | Rectified Output=  25
+Time=20  | AC Input=  50 | Rectified Output=  50
+Time=30  | AC Input=  75 | Rectified Output=  75
+Time=40  | AC Input= 100 | Rectified Output= 100
+Time=50  | AC Input=  75 | Rectified Output=  75
+Time=60  | AC Input=  50 | Rectified Output=  50
+Time=70  | AC Input=  25 | Rectified Output=  25
+Time=80  | AC Input=   0 | Rectified Output=   0
+Time=90  | AC Input= -25 | Rectified Output=   0
+Time=100 | AC Input= -50 | Rectified Output=   0
+Time=110 | AC Input= -75 | Rectified Output=   0
+Time=120 | AC Input=-100 | Rectified Output=   0
